@@ -6,7 +6,7 @@ package com.mycompany.gerenciabanco;
 /**
  * @author jbmai
  */
-
+/** testando as branches para futuro desenvolvimento*/
 import java.util.Scanner;
 
 public class GerenciaBanco {
